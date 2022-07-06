@@ -18,7 +18,7 @@
 			만든이들: soldesk 802호 4팀 세미프로젝트<br>
 			<br>
 			</div>
-		<div><embed src="YJ_src/pfkrteam4.pdf" type="application/pdf" width="80%" height="600px" /></div>
+		<div><embed src="YJ_src/4teamPF_KRfinal.pdf" type="application/pdf" width="80%" height="600px" /></div>
 		
 		</div>
 	

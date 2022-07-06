@@ -17,7 +17,7 @@
 			作った者たち: soldesk&nbsp;802号室&nbsp;チーム4&nbsp;セミプロジェクト<br>
 			<br>
 			</div>
-				<div><embed src="YJ_src/Team4PfJP.pdf" type="application/pdf" width="80%" height="600px" /></div>
+				<div><embed src="YJ_src/4teamPF_JPfinal.pdf" type="application/pdf" width="80%" height="600px" /></div>
 		</div>
 	
 	
