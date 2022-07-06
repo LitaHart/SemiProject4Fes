@@ -26,7 +26,7 @@
 -----------------------
 ## 2.Assigned Task
 
-|전유진|임동훈|박민지|박시원|
+|전유진（ジョンユジン）|임동훈（イムドンフン）|박민지（パクミンジ）|박시원（パクシウァン）|
 |:---:|:---:|:---:|:---:|
 |lita.y.jeon@gmail.com|dla_ehdgns@naver.com|mjpark.0311kr@gmail.com|soobin414@gmail.com|
 |팀장/디자인/CSS/게시판/DB관리/위젯적용|CSS/슬라이드(홈)|CSS/API파싱(축제정보일람)/DB관리|지도(길찾기)API적용|
