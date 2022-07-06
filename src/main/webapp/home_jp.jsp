@@ -790,13 +790,13 @@
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=2"><img src="dh_festival_slide_img/은평구.png"></a>
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=77"><img src="dh_festival_slide_img/종로구.png"></a>
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=72"><img src="dh_festival_slide_img/동대문구.png"></a>
@@ -820,22 +820,22 @@
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=74"><img src="dh_festival_slide_img/광진구.png"></a>
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=1"><img src="dh_festival_slide_img/양천구.png"></a>
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=120"><img src="dh_festival_slide_img/금천구.png"></a>
 			</div>
 			<div>
-				<img src="dh_festival_slide_img/slideBlanc.jpg">
+				<img src="dh_festival_slide_img/slideBlanc_jp.jpg">
 			</div>
 			<div>
 				<a href="http://localhost:8080/semiPro_Team4/festivalInfoCon?m_no=59"><img src="dh_festival_slide_img/관악구.png"></a>
