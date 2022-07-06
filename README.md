@@ -1,5 +1,6 @@
 # SemiProject4Fes
-# soldesk 22년도 6월 / 세미프로젝트 팀4 (전유진, 임동훈, 박시원, 박민지)
+# soldesk 2022.06 / Semi Project team 4 
+# member:전유진, 임동훈, 박시원, 박민지
 # Website that introduces Festivals of Seoul
 
 #### Project nickname : 서울축제
