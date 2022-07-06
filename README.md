@@ -19,9 +19,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -----------------------
-### 1. Category
+### 1.Category
 <img width="500" alt="카테고리 정보" src="https://user-images.githubusercontent.com/104661488/177454777-afdf70ac-8bae-4dbe-850b-cb3e79b546e1.png">
 <img width="500" alt="카테고리 정보" src="https://user-images.githubusercontent.com/104661488/177455756-e9035810-b6bc-4d52-8664-a5ab0025b79d.png">
+
 -----------------------
+### 2.Assigned Task
 
-
+|전유진|임동훈|박민지|박시원|
+|:---:|:---:|:---:|:---:|
+|lita.y.jeon@gmail.com|dla_ehdgns@naver.com|mjpark.0311kr@gmail.com|soobin414@gmail.com|
+|팀장/디자인/CSS/게시판/DB관리/위젯적용|CSS/슬라이드(홈)|CSS/API파싱(축제정보일람)/DB관리|지도(길찾기)API적용|
+|チームリーダー/デザイン/ CSS / 掲示板/ DB管理 / ウィジェットなど|CSS / ホームのスライダーなど|CSS / 祭り情報パース/ (祭り情報一覧)/ DB管理など|地図API適用 など|
