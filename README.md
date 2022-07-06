@@ -3,7 +3,7 @@
 ### member:전유진, 임동훈, 박시원, 박민지
 ## Website that introduces Festivals of Seoul
 
-#### Project nickname : 서울축제
+#### Project nickname : 서울축제 (FesSeoul)
 #### Project execution period : 2022.06.13.~2022.06.30.
 -----------------------
 ## Description
